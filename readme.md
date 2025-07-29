@@ -6,7 +6,7 @@ A simple language patch that adds Toki Pona to your Peak.
 
 ## §1 INSTALL
 
-1. [Download `tokipona.bin`](https://drive.google.com/file/d/1LJJSPo1YP3Nd0CFPcNCqkWgZPtL31C3G/view)
+1. Download [`tokipona.bin`](https://drive.google.com/file/d/1LJJSPo1YP3Nd0CFPcNCqkWgZPtL31C3G/view)
 2. Download `patch.py` from this repository.
 3. Use Steam to **browse local files** for *Peak*.
 4. Place both `tokipona.bin` and `patch.py` in the `PEAK_Data` folder.

@@ -38,6 +38,8 @@ Awa - Hour(toki ponized loanword)
 
 [lanpan](https://en.wiktionary.org/wiki/Appendix:Toki_Pona/lanpan) - Receive
 
+[jete](https://sona.pona.la/wiki/List_of_marginal_words_in_..._usefulquotes#jete) - Throw
+
 
 ## §1 REQUIREMENTS
 

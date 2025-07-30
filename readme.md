@@ -11,7 +11,7 @@ Version 1.0.0(28/07/25): Initial release; Translated the main menu and the menus
 
 Version 2.0.0(30/07/25): Moved to BepInEx; Translated everything except the guidebook and some accolade names.
 
-Version 2.0.1(30/07/25): Fixed the bug where "open to friends" wouldn't be translated.
+Version 2.0.1(30/07/25): Fixed the bug where "open to friends" wouldn't be translated, and some grammatical errors.
 
 ---
 

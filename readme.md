@@ -4,6 +4,8 @@ A simple language mod that adds Toki Pona to your Peak.
 
 I encourage you to give feedback in the issues tab since I'm a bit new to toki pona.
 
+76.7% complete
+
 ## Changelog
 Version 1.0.0(28/07/25): Initial release; Translated the main menu and the menus in settings. 
 

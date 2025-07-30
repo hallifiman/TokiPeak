@@ -6,6 +6,7 @@ I encourage you to give feedback in the issues tab since I'm a bit new to toki p
 
 ## Changelog
 Version 1.0.0(28/07/25): Initial release; Translated the main menu and the menus in settings. 
+---
 Version 2.0.0(30/07/25): Moved to BepInEx; Translated everything except the guidebook and some accolade names.
 
 ---

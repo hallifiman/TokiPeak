@@ -32,7 +32,7 @@ PLAY OFFLINE=SINA TASO O MUSI
 SETTINGS\n=LAWA PALI\n
 CREDITS=JAN PALI
 QUIT=O PINI E MUSI
-Polski + Türkçe are in! And some.....secret stuff.=Toki Pona en Nena epiku a! :3
+Polski + Türkçe are in! And some.....secret stuff.=Toki Posuka en toki Tuki lon Nena! Kin.....sona len.
 
 NEW ISLAND IN=<size\=80%\>NENA SIN LON
 r:(\d+)h (\d+)m (\d+)s=<size\=80%>$1h $2m $3s

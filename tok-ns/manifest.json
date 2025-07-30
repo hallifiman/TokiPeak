@@ -1,0 +1,10 @@
+{
+    "name": "PEAK_Toki_Pona",
+    "version_number": "2.8.8",
+    "website_url": "https://github.com/hallifiman/TokiPeak/tree/main",
+    "description": "Nena kepeken Toki Pona",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.2403",
+        "Hayrizan-XUnity_AutoTranslator-5.4.5"
+    ]
+}

@@ -11,11 +11,24 @@ Version 1.0.0(28/07/25): Initial release; Translated the main menu and the menus
 
 Version 2.0.0(30/07/25): Moved to BepInEx; Translated everything except the guidebook and some accolade names.
 
+Version 2.0.1(30/07/25): Fixed the bug where "open to friends" wouldn't be translated.
+
 ---
 
 ## Nimisin
-Pika - Electric
-Wiki - Speed
+[pika](https://sona.pona.la/wiki/pika) - Electric
+[wiki](https://app.glosbe.com/mis_tok/en/wiki) - Speed or Fast
+[Mita](https://www.reddit.com/r/tokipona/comments/kjeapa/comment/ggw5zbb/) - Metre(toki ponized loanword)
+[enko](https://sona.pona.la/wiki/enko) - Size, Length, etc.
+Awa - Hour(toki ponized loanword)
+[kiki](https://sona.pona.la/wiki/kiki) - Spike
+[usawi](https://sona.pona.la/wiki/usawi) - Magical
+[pake](https://sona.pona.la/wiki/pake) - Prevent
+[misa suli](https://sona.pona.la/wiki/Nonstandard_animal_words#misa) - Capybara
+[isipin](https://sona.pona.la/wiki/isipin) - Consciousness
+[lanpan](https://en.wiktionary.org/wiki/Appendix:Toki_Pona/lanpan) - Receive
+
+
 TO BE CONTINUED
 
 

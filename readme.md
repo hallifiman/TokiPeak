@@ -11,6 +11,11 @@ Version 2.0.0(30/07/25): Moved to BepInEx; Translated everything except the guid
 
 ---
 
+## Nimisin
+Pika - Electric
+Wiki - Speed
+TO BE CONTINUED
+
 
 ## §1 REQUIREMENTS
 

@@ -18,8 +18,6 @@ Version 2.0.0(30/07/25): Moved to BepInEx; Translated everything except the guid
 
 This mod requires [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.3) and [XUnity AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator).
 
----
-
 
 ## §2 INSTALL
 
@@ -30,7 +28,7 @@ This mod requires [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4
 ---
 
 
-## §3 LICENSE
+## LICENSE
 
 
 This is released under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).

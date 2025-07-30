@@ -40,6 +40,18 @@ Awa - Hour(toki ponized loanword)
 
 [jete](https://sona.pona.la/wiki/List_of_marginal_words_in_..._usefulquotes#jete) - Throw
 
+[kulaso](https://sona.pona.la/wiki/Nonstandard_color_words#pulaso,_kulaso,_and_sulaso) - Green
+
+[unu](https://sona.pona.la/wiki/Nonstandard_color_words#unu) - Purple
+
+[pulaso](https://sona.pona.la/wiki/Nonstandard_color_words#pulaso,_kulaso,_and_sulaso) - Blue
+
+[masenta](https://sona.pona.la/wiki/Nonstandard_color_words#masenta) - Pink
+
+[kapesi](https://sona.pona.la/wiki/Nonstandard_color_words#kapesi) - Brown
+
+[nalanja](https://sona.pona.la/wiki/Nonstandard_color_words#nalanja) - Orange
+
 
 ## §1 REQUIREMENTS
 

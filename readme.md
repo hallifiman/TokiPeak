@@ -34,6 +34,3 @@ This mod requires [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4
 
 
 This is released under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
-
----
-

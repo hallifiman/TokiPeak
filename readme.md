@@ -1,13 +1,12 @@
-# Toki Pona Patch for Peak
+# Toki Pona Mod for Peak
 
-A simple language patch that adds Toki Pona to your Peak.
+A simple language mod that adds Toki Pona to your Peak.
 
 I encourage you to give feedback in the issues tab since I'm a bit new to toki pona.
 
-THIS DOES NOT WORK IN THE BETA BRANCH AT THE MOMENT.
-
 ## Changelog
 Version 1.0.0(28/07/25): Initial release; Translated the main menu and the menus in settings. 
+Version 2.0.0(30/07/25): Moved to BepInEx; Translated everything except the guidebook and some accolade names.
 
 ---
 

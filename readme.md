@@ -15,6 +15,8 @@ Version 2.0.1(30/07/25): Fixed the bug where "open to friends" wouldn't be trans
 
 Version 2.1.0(31/07/25): Translated the remaining accolade names.
 
+Version 2.1.1(31/07/25): Fixed some grammatical/formatting errors.
+
 ---
 
 ## Nimisin

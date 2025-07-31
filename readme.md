@@ -52,6 +52,8 @@ Awa - Hour(toki ponized loanword)
 
 [nalanja](https://sona.pona.la/wiki/Nonstandard_color_words#nalanja) - Orange
 
+[aka](https://sona.pona.la/wiki/natu#aka) - Cross, Knot
+
 
 ## §1 REQUIREMENTS
 

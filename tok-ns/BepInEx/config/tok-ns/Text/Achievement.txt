@@ -42,10 +42,10 @@ Escape the island without placing anything on the mountain.=Tawa nena taso pana 
 Climb 50m upwards without touching the ground.=Tawa sewi Mita pi mute mute luka luka taso pilin ala anpa.
 
 ##徽章##
-Beachcomber Badge=Pana pi  Alasa
-BEACHCOMBER BADGE=PANA PI ALASA
-Trailblazer Badge=Pana pi Mama
-TRAILBLAZER BADGE=PANA PI MAMA
+Beachcomber Badge=Pana Alasa
+BEACHCOMBER BADGE=PANA ALASA
+Trailblazer Badge=Pana Mama
+TRAILBLAZER BADGE=PANA MAMA
 Alpinist Badge=Pana pi Jan ni Tawa e sewi
 ALPINIST BADGE=PANA PI JAN NI TAWA E SEWI
 Volcanology Badge=Pana pi Jan ni Tokana e Nena seli
